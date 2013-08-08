@@ -1,0 +1,153 @@
+% Open Licensing: Culture, Data, Software
+% Luis Villa + Stephen LaPorte
+% August 9, 2013 - Wikimania Hong Kong
+
+Why are we here?
+----------------
+
+- the state of open licensing: culture, data, software
+
+- impact on (and questions for?) Wikimedians and Wiki projects
+
+Who We Are
+----------
+
+- Luis Villa
+
+<!-- data, source -->
+
+- Stephen LaPorte
+
+<!-- culture -->
+
+Open Data
+---------
+
+<!-- Distinguish data from culture (DB rights, protection issues -->
+
+### New Licenses: Open Government
+
+ - typically permissive
+ - growing number
+ - can have subtle differences
+
+Data Trends
+-----------
+
+### Database licensing
+
+<!-- key examples: CC0, ODbL -->
+
+### Increased gov't publication
+
+<!-- positive: lots of interesting new information! -->
+<!-- possible negative: increased gov't screwups, learning curve -->
+
+### License proliferation
+
+<!-- Open Definition trying to play same role as OSI -->
+
+Data Questions
+--------------
+
+### Incoming data: what licenses?
+
+### Advocacy for "right" gov't licenses?
+
+Open Culture
+------------
+
+### New Licenses: CC4
+
+- *good:* readability, i18n, attribution
+- *tricky:* database rights
+- *expectations:* timeline
+
+Culture Trends
+--------------
+
+### Increased concern about compatibility
+
+<!-- good problem to have: increased remix between open licenses -->
+
+<!-- CC doing positive work in this area -->
+
+### Social networks
+
+- Terms of Service may not allow compliance
+- UI may not allow (easy) compliance 
+
+### Open Educational Resources
+
+<!-- big new source of content; lots of NC --> 
+
+### Minimal enforcement (so far)
+
+<!-- no visible trends -->
+
+Culture Questions
+-----------------
+
+- CC 4: timeline, process?
+
+- Enforcement?
+
+- Improved CC licensing on social networks?
+
+<!-- - Commons licensing review? -->
+
+Open Source
+-----------
+
+### New Licenses: not so new!
+
+- AGPL
+- Mozilla Public License
+- Eclipse, copyleft-next (both upcoming)
+
+<!-- none huge, but reflect a trend towards readability, better patent language -->
+
+Source Trends
+-------------
+ 
+### More permissive licenses
+
+<!-- javascript; may be an issue in some places if we are producing GPL javascript -->
+
+<!-- 
+-   Large increase in permissive licenses
+
+    -   Not clear if this is merely perceived or actually real
+
+-   Slow, but stubborn, increase in AGPL
+
+    -   Split motives: some genuine free software, some dual-licensing/"fearware"
+
+-   Increased understanding that GPL is defacto permissive in the web services space
+
+    -   No recommendation here that Mediawiki software move to AGPL or permissive, but potentially something to consider
+
+-->
+
+### Perception of increased enforcement
+
+<!-- not clear there is actual enforcement, but definitely increased concern -->
+
+### Clear that licenses are enforceable
+
+<!-- Challenges in enforcement are not tied to licenses: more about things like copyright ownership, proving infringement, etc. -->
+
+Source Questions
+----------------
+
+- GPL javascript?
+- Permissive v. AGPL?
+
+So now what?
+------------
+
+
+
+
+Q&A!
+---
