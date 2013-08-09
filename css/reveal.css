@@ -62,6 +62,11 @@ body {
 	text-shadow: none;
 }
 
+.first-bg {
+  background-color: #2980b9;
+  background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScyMCcgdmlld0JveD0nMCAwIDUgMTAnPgoJPHJlY3Qgd2lkdGg9JzExMCUnIHg9Jy01JScgeT0nLTUlJyBoZWlnaHQ9JzExMCUnIGZpbGw9JyMyOTgwYjknLz4KCTxsaW5lIHgxPSctMicgeTE9JzEnIHgyPSc3JyB5Mj0nMTAnIHN0cm9rZT0nIzM0OThkYicgc3Ryb2tlLXdpZHRoPScxLjUnLz4KCTxsaW5lIHgxPSctMicgeTE9JzYnIHgyPSc3JyB5Mj0nMTUnIHN0cm9rZT0nIzM0OThkYicgc3Ryb2tlLXdpZHRoPScxLjUnLz4KCTxsaW5lIHgxPSctMicgeTE9Jy00JyB4Mj0nNycgeTI9JzUnIHN0cm9rZT0nIzM0OThkYicgc3Ryb2tlLXdpZHRoPScxLjUnLz4KPC9zdmc+')
+}
+
 
 /*********************************************
  * HEADERS
@@ -279,7 +284,6 @@ body {
 
 	font-style: italic;
 	background: rgba(255, 255, 255, 0.05);
-	box-shadow: 0px 0px 2px rgba(0,0,0,0.2);
 }
 	.reveal blockquote p:first-child,
 	.reveal blockquote p:last-child {
@@ -294,7 +298,7 @@ body {
 	display: block;
 	position: relative;
 	width: 90%;
-	margin: 15px auto;
+	margin: auto;
 
 	text-align: left;
 	font-size: 0.55em;
@@ -303,7 +307,6 @@ body {
 
 	word-wrap: break-word;
 
-	box-shadow: 0px 0px 6px rgba(0,0,0,0.3);
 }
 .reveal code {
 	font-family: monospace;
@@ -313,6 +316,8 @@ body {
 	overflow: auto;
 	max-height: 400px;
 	word-wrap: normal;
+
+	box-shadow: none;
 }
 
 .reveal table th,
